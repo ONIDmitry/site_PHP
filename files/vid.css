@@ -1,0 +1,142 @@
+{
+    margin:0px;
+    padding:0px;
+}
+
+
+body {
+    background: #cccccc;
+    font:14px Trebuchet MS;
+   }
+
+.wrapper{
+    width: 1000px;
+    height:1000px;
+    background: #ffffff;
+    margin: 0 auto;
+    border: double black;
+   
+}
+
+.header{
+    width:980px;
+    height: 180px;
+    padding:10px;
+    border-bottom: 5px solid #000000;
+   
+    
+    
+}
+.content {
+    width:980px;
+    height:760px;
+     padding:10px;
+}
+
+.left {
+    width:760px;
+    height:770px;
+    float:left;
+}
+.article {
+   
+    width: 760px;
+     
+    margin-bottom: 10px;
+   }
+ 
+.article img {
+    float:left;
+    
+}
+.article:hover {
+    background:#ff9933;
+}
+#picture {
+    padding-top: 30px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    margin-right: 15px;
+}
+.article p {
+    padding-top:10px;
+    padding-right:10px;
+    padding-bottom: 20px;
+    text-indent: 10px;
+}
+.tittle {
+    text-align:center;
+    
+}
+.right {
+    width:220px;
+    height:770px;
+    float: right;
+    }
+
+.right_menu a {
+    display:block;
+    text-align: center;
+}
+
+.footer {
+    width: 990px;
+    height:20px;
+    color: #333333;
+   text-align: center;
+   
+   display:block;
+    }
+.footer:hover{
+    
+color: #ff9933;
+}    
+ 
+ a {
+    color:#333333;
+ }
+ 
+a:hover {
+    color: #000080;
+} 
+ 
+ 
+.left_up{
+    width: 180px;
+    height:160px;
+    float:left;
+    
+    
+    
+    
+}
+.right_up {
+    width:640px;
+    height:160px;
+     float:right;
+     margin-top:30px;
+    
+    
+}
+
+.admin {
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+
+#searchForm {
+    margin-right: 20px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
